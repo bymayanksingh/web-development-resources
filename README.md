@@ -402,8 +402,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 |-------------------------------|
 | https://coolors.co            |
 | https://colorhunt.co          |
-| https://chromapalette.in/     |
 | https://paletton.com          |
+| https://palettes.fyi/         |  
 | https://color-hex.com         |
 | https://mycolor.space         |
 | https://flatuicolors.com      |
